@@ -1,5 +1,19 @@
-## Hello word 👋
+# Olá, eu sou o Nycollas Honorato! 👋
 
-meu nome é nycollas honorato sou estudante de desenvolvimento de sistemas, atualmente estou no 3 semestre do meu curso(são 4 de duração) e estudo a E.E. Alexandre de Gusmão, meus projetos como desevolvedor, são em sua maioria sites em html, css e javascript
-também já fiz alguns projetos com eletrônica como arduino, todos projetos academicos para fins de apresentação. Atualmente eu faço estágio na empresa cas tecnologia, estou estudando agora sobre programação mobile e no futuro pretendo fazer faculdade de 
-engenharia de software e mestrado em IA
+### 👨‍💻 Sobre Mim
+- 🎓 Estudante de **Desenvolvimento de Sistemas** (atualmente no 3º de 4 semestres).
+- 🏫 Estudo na **E.E. Alexandre de Gusmão**.
+- 💼 **Estagiário na CAS Tecnologia**.
+- 💡 Atualmente focado em aprender **Programação Mobile**.
+- 🚀 Planos futuros: Graduação em Engenharia de Software e Mestrado em IA.
+
+---
+
+### 🛠 Tecnologias e Experiências
+- **Web Development:** Experiência com projetos em **HTML, CSS e JavaScript**.
+- **Eletrônica & Hardware:** Desenvolvimento de projetos acadêmicos utilizando **Arduino** para apresentações.
+---
+
+### 📫 Vamos nos conectar?
+- **LinkedIn:** [https://www.linkedin.com/in/nycollas-fran%C3%A7a-mello-honorato-a41990262/]
+- **E-mail:** [nycollasfranca16@gmail.com]
